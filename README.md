@@ -31,7 +31,9 @@ I am still learning the logic behind structuring data efficiently, but I am acti
 
 ## Contact Me
 Email: earljohnbplaza@gmail.com
+
 Phone: 0924 294 7855
+
 GitHub: 
 
 
