@@ -27,7 +27,9 @@ I am still learning the logic behind structuring data efficiently, but I am acti
 - CSS3
 
 ## Projects
+**Solar Panel Installation Request and Tracking System in Support of SDG 7**
 
+This project proposes a Solar Panel Installation Request and Tracking System — a web-based application using PHP and MySQL that addresses these gaps. The system provides a centralized platform where applicants submit requests online, and administrators efficiently review, approve, schedule, and monitor installations. An automated eligibility scoring mechanism objectively ranks applicants based on household income, electricity status, household size, and location type — ensuring fair and transparent prioritization.
 
 ## Contact Me
 Email: earljohnbplaza@gmail.com
