@@ -37,6 +37,7 @@ Repository: https://github.com/earljohn-spec/SOLAR-PANEL-INSTALLATION-REQUEST-AN
 Email: earljohnbplaza@gmail.com
 
 Phone: 0924 294 7855
+       0976 651 0095
 
 GitHub: https://github.com/earljohn-spec
 
