@@ -38,7 +38,7 @@ Email: earljohnbplaza@gmail.com
 
 Phone: 0924 294 7855
 
-GitHub: 
+GitHub: https://github.com/earljohn-spec
 
 
 
