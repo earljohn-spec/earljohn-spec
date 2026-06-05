@@ -1,58 +1,50 @@
-## Earl John B. Plaza
+# Hi there, I'm Earl John B. Plaza 👋
 
-Second Year BSIT Student | Davao Del Norte State College
+### Aspiring Full-Stack Developer | 2nd Year BSIT Student at Davao Del Norte State University
+**Focusing on Back-End Development & Database Management**
 
-Back-End Developer | Focusing on Database Management
+[Portfolio](#) | [LinkedIn](#) | [Email](mailto:earljohnbplaza@gmail.com)
 
-Portfolio:
+---
 
-## About Me
+## 🚀 About Me
 
-I am a 2nd year Bachelor of Science in Information Technology student at Davao Del Norte State University. I have a strong dedication to exploring the endless possibilities of technology and building a career centered around logic and data.
+I am a 2nd year Bachelor of Science in Information Technology student with a strong dedication to building a career centered around logic and data. **My ultimate goal is to become a Full-Stack Developer.**
 
-I am currently building my foundation in **Back-End Development and Database Management**. I enjoy the challenge of structuring data efficiently and creating the "behind-the-scenes" logic that makes applications work.
+Currently, I am building my foundation in **Back-End Development and Database Management**. I enjoy the challenge of structuring data efficiently and creating the "behind-the-scenes" logic that makes applications work. While I am still refining my skills in complex data architecture, I am actively practicing every day to bridge the gap between back-end logic and complete full-stack solutions.
 
-I am still learning the logic behind structuring data efficiently, but I am actively growing my skills through practice to keep on improving.
+---
 
-## Skills
+## 🛠️ Skills
 
-**Back-end Development**
-- Java
-- PHP
-- Laravel
-- MySql
+### **Back-end & Database (Current Focus)**
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+- ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Front-end Development**
-- HTML5
-- CSS3
+### **Front-end (Growth Area)**
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## Projects
-**Solar Panel Installation Request and Tracking System in Support of SDG 7**
+---
 
-This project proposes a Solar Panel Installation Request and Tracking System — a web-based application using PHP and MySQL that addresses these gaps. The system provides a centralized platform where applicants submit requests online, and administrators efficiently review, approve, schedule, and monitor installations. An automated eligibility scoring mechanism objectively ranks applicants based on household income, electricity status, household size, and location type — ensuring fair and transparent prioritization.
+## 📂 Featured Project
 
-Repository: https://github.com/earljohn-spec/SOLAR-PANEL-INSTALLATION-REQUEST-AND-TRACKING-SYSTEM-IN-SUPPORT-OF-SDG-7
+### **Solar Panel Installation Request and Tracking System**
+*An application in support of SDG 7 (Affordable and Clean Energy)*
 
-## Contact Me
-Email: earljohnbplaza@gmail.com
+This web-based application addresses gaps in renewable energy accessibility. It provides a centralized platform for online requests, administrative reviews, and automated eligibility scoring to prioritize installations fairly based on data-driven metrics.
 
-Phone: 0924 294 7855
+- **Tech Stack:** PHP, MySQL, HTML, CSS
+- **Key Feature:** Automated eligibility scoring mechanism for transparent prioritization.
+- 🔗 [**View Repository**](https://github.com/earljohn-spec/SOLAR-PANEL-INSTALLATION-REQUEST-AND-TRACKING-SYSTEM-IN-SUPPORT-OF-SDG-7)
 
-GitHub: https://github.com/earljohn-spec
+---
 
+## 📬 Contact Me
+- **Email:** [earljohnbplaza@gmail.com](mailto:earljohnbplaza@gmail.com)
+- **GitHub:** [earljohn-spec](https://github.com/earljohn-spec)
+- **Phone:** 0924 294 7855
 
-
-<!--
-**Ambidextrous-bug/Ambidextrous-bug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
