@@ -1,4 +1,4 @@
-# Hi there, I'm Earl John B. Plaza 👋
+# Earl John B. Plaza
 
 ### Aspiring Full-Stack Developer | 2nd Year BSIT Student at Davao Del Norte State University
 **Focusing on Back-End Development & Database Management**
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a 2nd year Bachelor of Science in Information Technology student with a strong dedication to building a career centered around logic and data. **My ultimate goal is to become a Full-Stack Developer.**
 
