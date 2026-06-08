@@ -67,7 +67,7 @@ Designed for small to medium schools, college departments, and CS/IT students ne
 
 ## 🌐 Portfolio
 
-Check out my live portfolio built with **HTML, CSS & JavaScript**:
+Check out my live portfolio:
 
 👉 **[earljohn-spec.github.io](https://earljohn-spec.github.io)**
 
