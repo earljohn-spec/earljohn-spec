@@ -53,18 +53,7 @@ A web-based application that addresses gaps in renewable energy accessibility. I
 
 Designed for small to medium schools, college departments, and CS/IT students needing a complete capstone or thesis project. Features student enrollment, grading, attendance tracking, library, and finance modules.
 
-- **Tech Stack:**
-
-  | Technology | Version |
-  |---|---|
-  | PHP | 8.2+ |
-  | Laravel | 13.x |
-  | Filament | 5.x |
-  | MySQL | 8.0+ |
-  | Tailwind CSS | 4.x |
-  | Alpine.js | 3.x |
-  | Vite | 8.x |
-
+- **Tech Stack:** PHP 8.2+, Laravel 13.x, Filament 5.x, MySQL 8.0+, Tailwind CSS 4.x, Alpine.js 3.x, Vite 8.x
 - **Key Features:**
   - Student enrollment and records management
   - Grading system with automated computation
