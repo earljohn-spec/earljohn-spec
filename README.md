@@ -3,7 +3,7 @@
 ### Aspiring Full-Stack Developer | 2nd Year BSIT Student at Davao Del Norte State University
 **Focusing on Back-End Development & Database Management**
 
-[🌐 Portfolio](https://earljohn-spec.github.io) | [📧 Email](mailto:earljohnbplaza@gmail.com) | [🐙 GitHub](https://github.com/earljohn-spec)
+[Portfolio](https://earljohn-spec.github.io) | [Email](mailto:earljohnbplaza@gmail.com) | [GitHub](https://github.com/earljohn-spec)
 
 ---
 
@@ -15,7 +15,7 @@ Currently, I am building my foundation in **Back-End Development and Database Ma
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ### **Back-End & Database (Current Focus)**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -35,7 +35,7 @@ Currently, I am building my foundation in **Back-End Development and Database Ma
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### 01 — Solar Panel Installation Request and Tracking System
 *An application in support of SDG 7 (Affordable and Clean Energy)*
@@ -60,20 +60,20 @@ Designed for small to medium schools, college departments, and CS/IT students ne
   - Attendance tracking per subject and student
   - Library module for resource management
   - Finance module for fees and payments
-- ⚡ Powered by Filament 5.x Admin Panel
+- Powered by Filament 5.x Admin Panel
 - 🔗 [**View Repository**](https://github.com/earljohn-spec/EduCampus---School-Management-System-v1.0.0)
 
 ---
 
-## 🌐 Portfolio
+## Portfolio
 
 Check out my live portfolio:
 
-👉 **[earljohn-spec.github.io](https://earljohn-spec.github.io)**
+  **[earljohn-spec.github.io](https://earljohn-spec.github.io)** 
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 - **Email:** [earljohnbplaza@gmail.com](mailto:earljohnbplaza@gmail.com)
 - **GitHub:** [earljohn-spec](https://github.com/earljohn-spec)
 - **Portfolio:** [earljohn-spec.github.io](https://earljohn-spec.github.io)
