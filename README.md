@@ -84,4 +84,3 @@ Check out my live portfolio:
 - **Email:** [earljohnbplaza@gmail.com](mailto:earljohnbplaza@gmail.com)
 - **GitHub:** [earljohn-spec](https://github.com/earljohn-spec)
 - **Portfolio:** [earljohn-spec.github.io](https://earljohn-spec.github.io)
-- **Phone:** (+63) 976 651 0095
