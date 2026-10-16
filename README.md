@@ -1,6 +1,6 @@
 # Earl John B. Plaza
 
-2nd year BSIT at Davao Del Norte State University.
+3rd year BSIT at Davao Del Norte State University.
 Backend systems, distributed data structures, retrieval pipelines.
 
 [Portfolio](https://earljohn-spec.github.io) · [Email](mailto:earljohnbplaza@gmail.com) · [GitHub](https://github.com/earljohn-spec)
