@@ -9,7 +9,7 @@ Backend systems, distributed data structures, retrieval pipelines.
 
 ## Projects
 
-### rfc-rag-pipeline — Hybrid Retrieval Engine for IETF RFCs
+### rfc-rag-pipeline — Hybrid Retrieval Engine for IETF RFCs (2025)
 
 Retrieval-augmented generation pipeline for technical documents. Dense embeddings
 and BM25 sparse retrieval fused via Reciprocal Rank Fusion (k=60). Structural
@@ -20,9 +20,9 @@ chunking follows RFC section boundaries instead of splitting on token count.
 - Retrieval bias documented via ADR; ragas evaluation isolated as optional
   dependency to prevent LangChain from entering the dependency tree
 
-[Repository](https://github.com/earljohn-spec/rfc-rag-pipeline)
+*Private — available on request.*
 
-### convergence-crdt — Op-Based CRDT for Collaborative Text
+### convergence-crdt — Op-Based CRDT for Collaborative Text (2025)
 
 RGA (Replicated Growable Array) with causal ordering, out-of-order delivery,
 and fuzz-tested convergence across N sites. Lamport clocks for total ordering
@@ -32,7 +32,7 @@ with deterministic tiebreak on site ID.
 - Optional WebSocket transport; core engine has zero runtime dependencies
 - SQLite checkpoint persistence; opt-in tombstone garbage collection
 
-[Repository](https://github.com/earljohn-spec/convergence-crdt)
+*Private — available on request.*
 
 ---
 
@@ -49,7 +49,7 @@ with deterministic tiebreak on site ID.
 
 ## Practices
 
-- Tests before merge. Both projects above ship with full pytest suites
+- Tests before merge. All projects ship with full pytest suites
   and strict type checking.
 - Linting and formatting enforced in CI (ruff).
 - Dependencies pinned in lockfiles.
